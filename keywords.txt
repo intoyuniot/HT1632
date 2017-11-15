@@ -1,0 +1,49 @@
+#######################################
+# Syntax Coloring Map For IntoRobot
+#######################################
+
+#######################################
+# Class (KEYWORD1)
+#######################################
+
+ HT1632  KEYWORD1
+ HT1632LEDMatrix   KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+# methods names in commond
+begin   KEYWORD2
+clrPixel1  KEYWORD2
+setPixel  KEYWORD2
+blink  KEYWORD2
+setBrightness  KEYWORD2
+clearScreen  KEYWORD2
+fillScreen  KEYWORD2
+writeScreen  KEYWORD2
+dumpScreen  KEYWORD2
+width  KEYWORD2
+height  KEYWORD2
+clrPixel  KEYWORD2
+setPixel  KEYWORD2
+drawPixel  KEYWORD2
+drawLine  KEYWORD2
+drawRect  KEYWORD2
+fillRect  KEYWORD2
+drawCircle  KEYWORD2
+fillCircle  KEYWORD2
+setCursor  KEYWORD2
+setTextSize  KEYWORD2
+setTextColor  KEYWORD2
+write  KEYWORD2
+drawChar  KEYWORD2
+drawBitmap  KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+HT1632_COMMON_8NMOS  LITERAL1
+HT1632_COMMON_16NMOS  LITERAL1
+HT1632_COMMON_8PMOS  LITERAL1
+HT1632_COMMON_16PMOS  LITERAL1

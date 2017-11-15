@@ -1,0 +1,17 @@
+{
+    "name": "HT1632",
+    "version": "1.0.0",
+    "keywords": "HT1632",
+    "description": "HT1632(点阵专用驱动芯片)驱动库，可以驱动32*8或者是24*16点阵",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/intoyuniot/HT1632.git"
+    },
+
+    "authors": {
+        "name": "robin",
+        "email": "robin@molmc.com"
+    },
+    "frameworks": "arduino",
+    "platforms": "*"
+}
